@@ -1,5 +1,7 @@
 # 这是一个程序检查程序
 
+[![Page Views Count](https://badges.toozhao.com/badges/01HB0B3G45J21FDNK4497CRZ1J/green.svg)](https://badges.toozhao.com/stats/01HB0B3G45J21FDNK4497CRZ1J "Get your own page views count badge on badges.toozhao.com") [![Page Views Count](https://badges.toozhao.com/badges/01HB0B3G45J21FDNK4497CRZ1J/blue.svg)](https://badges.toozhao.com/stats/01HB0B3G45J21FDNK4497CRZ1J "Get your own page views count badge on badges.toozhao.com") [![Page Views Count](https://badges.toozhao.com/badges/01HB0B3G45J21FDNK4497CRZ1J/orange.svg)](https://badges.toozhao.com/stats/01HB0B3G45J21FDNK4497CRZ1J "Get your own page views count badge on badges.toozhao.com")
+
 <details>
 <summary><h2>更新日志（点击展开）</h2></summary>
   
